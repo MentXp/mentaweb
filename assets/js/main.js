@@ -192,9 +192,9 @@
   baseURL:
     "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=",
   // Your Last.fm Username
-  user: "tfkhdyt",
+  user: "mentadp",
   // Your API key
-  api_key: "7c19688950319f6a2f78417d1fc439d9",
+  api_key: "f8473900e4003c98594d7795ea43e95e",
   additional: "&format=json&limit=1"
 };
 
